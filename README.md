@@ -1,2 +1,2 @@
 # hello-world
-introduction to github
+Hi everyone. This is just a simple hello world app
